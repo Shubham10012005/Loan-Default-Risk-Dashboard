@@ -19,3 +19,14 @@ The main objectives of this project are:
 - Examine customer characteristics such as age, employment length, and home ownership
 - Build an interactive Power BI dashboard for risk analysis
 - Generate data-driven business insights
+
+## 📊 Power BI Dashboard
+
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### Risk Analysis
+![Risk Analysis](Risk_Analysis.png)
+
+### Customer / Risk Profile
+![Customer Risk Profile](Customer_Risk_Profile.png)
